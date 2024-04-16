@@ -1,0 +1,1 @@
+# Aqui é estabelecida a conexão com o banco de dados (MySQL)

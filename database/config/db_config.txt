@@ -1,0 +1,4 @@
+user=root
+password=senha_de_acesso
+host=localhost
+database=nome_do_banco

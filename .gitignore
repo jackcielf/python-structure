@@ -1,0 +1,3 @@
+# Aqui ignoramos arquivos que não precisam ir para o repositório remoto (GitHub)
+
+./env
